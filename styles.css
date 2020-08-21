@@ -28,7 +28,7 @@ img
 #hour{
     width: 0.6%;
     height: 8%;
-    top: 33.1%;
+    top: 28.1%;
     left: 49.65%;
     opacity: 0.8;
 
@@ -36,14 +36,14 @@ img
 #min{
     width: 0.4%;
     height: 12%;
-    top: 29.2%;
+    top: 24.2%;
     left: 49.78%;
     opacity: 0.8;  
 }
 #sec{
     width: 0.3%;
     height: 15.5%;
-    top: 26%;
+    top: 21%;
     left: 49.81%;
     opacity: 0.8; 
     
