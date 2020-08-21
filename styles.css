@@ -1,0 +1,50 @@
+.analog
+{
+    margin: auto;
+    width: 800px;
+    
+}
+h1
+{
+    text-align: center;
+    color:#384F97;
+    font-family: "montserrat black";
+    font-size: 3rem;
+}
+
+img
+{
+    width:  30%;
+    position: relative;
+    left:35%;
+}
+
+#hour, #min, #sec{
+    position: absolute;
+    background:black;
+    border-radius: 10px; 
+    transform-origin: bottom;
+}
+#hour{
+    width: 0.6%;
+    height: 8%;
+    top: 29.1%;
+    left: 49.65%;
+    opacity: 0.8;
+
+} 
+#min{
+    width: 0.4%;
+    height: 12%;
+    top: 24.8%;
+    left: 49.78%;
+    opacity: 0.8;  
+}
+#sec{
+    width: 0.3%;
+    height: 14.5%;
+    top: 22.5%;
+    left: 49.81%;
+    opacity: 0.8; 
+    
+}  
