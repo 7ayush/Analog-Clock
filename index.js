@@ -7,7 +7,7 @@
     var d=new Date();
     var hr=d.getHours()*30+d.getMinutes()/2;
     var mn=d.getMinutes()*6;
-    var sc=d.getSeconds()*6;
+    var sc=d.getSeconds()*6+4;
     hour.style.transform=`rotate(${hr}deg)`;
     min.style.transform=`rotate(${mn}deg)`;
     sec.style.transform=`rotate(${sc}deg)`;
